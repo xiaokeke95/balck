@@ -1,0 +1,14 @@
+{
+  "name": "xiaokeke",
+  "version": "1.0.0",
+  "description": "huhu",
+  "main": "index.js",
+  "scripts": {
+    "test": "y"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "wangke",
+  "license": "ISC"
+}
